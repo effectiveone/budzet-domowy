@@ -28,3 +28,5 @@ Przy systemie 8 kWp (koszt ~25 000 zł po dofinansowaniu):
 - **Roczna korzyść: ok. 5 200 zł → zwrot w ok. 5 latach**
 
 To znacznie lepiej niż 3–4 lata temu przy niższych cenach energii.
+
+Aktualne ceny instalacji, porównania ofert i zmiany w przepisach śledzisz na [rynek-oze.pl](https://rynek-oze.pl) i [portal-oze.pl](https://portal-oze.pl). Jeśli korzystasz z dofinansowania Czyste Powietrze, przeczytaj koniecznie **[analizę EcoAudyt: wyłudzenia CBA w programie Czyste Powietrze 2026](https://ecoaudyt.app/blog/czyste-powietrze-oszustwo-cba-2026)** — zanim podpiszesz umowę z instalatorem.
