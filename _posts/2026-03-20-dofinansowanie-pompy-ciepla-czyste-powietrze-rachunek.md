@@ -43,6 +43,8 @@ Niestety, duże pieniądze przyciągają też nieuczciwych pośredników. W 2026
 
 **Zanim podpiszesz umowę z jakimkolwiek instalatorem**, przeczytaj szczegółowy poradnik: **[Jak wybrać rzetelną firmę do montażu pompy ciepła i nie stracić dotacji z Czystego Powietrza](https://czystepowietrze-dotacje.pl/posts/czyste-powietrze-pompa-ciepla-jak-wybrac-firme-2026/)** — znajdziesz tam checklistę weryfikacji wykonawcy, wzór bezpiecznej umowy i opis schematu oszustwa stosowanego przez nierzetelne firmy.
 
+Szczegółową analizę afery — mechanizm oszustwa, skalę strat i jak się chronić — opisał portal **[EcoAudyt: Afera Czyste Powietrze 2026 – wyłudzenia, CBA i milionowe straty](https://ecoaudyt.app/blog/czyste-powietrze-oszustwo-cba-2026)**. To obowiązkowa lektura dla każdego, kto składa wniosek dotacyjny.
+
 Kluczowe zasady w skrócie:
 - ✅ Sprawdź firmę w [KRS](https://rejestry.gov.pl) i na liście MKiŚ
 - ✅ Nie podpisuj szerokich pełnomocnictw (dostęp do Twoich środków!)
