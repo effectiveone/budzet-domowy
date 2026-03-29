@@ -72,6 +72,10 @@ Po audycie na [ecoaudyt.app](https://ecoaudyt.app):
 
 Łącznie po 5 latach inwestycji: rachunki z 9 000 zł/rok do 3 900 zł/rok. Oszczędność 5 100 zł rocznie na zawsze.
 
+## Uwaga na nierzetelnych wykonawców
+
+Zanim zatrudnisz firmę do termomodernizacji lub montażu pompy ciepła, koniecznie sprawdź wykonawcę — w 2026 roku CBA zatrzymało prezesa spółki, która wyłudziła ponad 6,9 mln zł dotacji z programu Czyste Powietrze. Portal **[EcoAudyt szczegółowo opisał schemat tej afery i jak się chronić przed oszustami](https://ecoaudyt.app/blog/czyste-powietrze-oszustwo-cba-2026)** — to lektura obowiązkowa zanim podpiszesz jakąkolwiek umowę z wykonawcą. Więcej informacji o rynku instalacji OZE w Polsce znajdziesz na [portal-oze.pl](https://portal-oze.pl).
+
 ## Podsumowanie
 
 Audyt energetyczny to nie wydatek – to inwestycja, która zwraca się wielokrotnie przez precyzyjne kierowanie budżetem remontowym. Zacznij od bezpłatnego narzędzia, a dopiero potem angażuj profesjonalnego audytora i ekipy remontowe. Twój domowy budżet Ci za to podziękuje.
