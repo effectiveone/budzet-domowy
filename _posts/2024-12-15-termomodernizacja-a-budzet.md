@@ -68,3 +68,5 @@ Z dofinansowaniem Czyste Powietrze czas zwrotu skraca się 2-3 krotnie.
 4. **Planuj etapami** – nie musisz robić wszystkiego naraz
 
 Termomodernizacja to inwestycja, która nie tylko zmniejsza rachunki, ale też zwiększa wartość nieruchomości i poprawia komfort życia. Przy odpowiednim dofinansowaniu to jeden z najlepszych wydatków jakie możesz zrobić dla domowego budżetu.
+
+**Ważne:** Zanim wybierzesz wykonawcę do termomodernizacji, zapoznaj się z raportem **[EcoAudyt: Afera Czyste Powietrze 2026 – wyłudzenia CBA i milionowe straty](https://ecoaudyt.app/blog/czyste-powietrze-oszustwo-cba-2026)**. Skala wyłudzeń w programach dotacyjnych jest ogromna — wiedz jak się chronić. Aktualności z rynku OZE i energetyki śledzisz na [rynek-oze.pl](https://rynek-oze.pl).
