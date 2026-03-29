@@ -22,3 +22,4 @@ Wymiana kotła węglowego na pompę ciepła podnosi klasę energetyczną budynku
 
 ## Planowanie inwestycji
 
+Decydując się na instalację OZE, sprawdź aktualne przepisy, dotacje i ceny urządzeń — rynek zmienia się dynamicznie. Rzetelne zestawienia i aktualności znajdziesz na [portal-oze.pl](https://portal-oze.pl) oraz [rynek-oze.pl](https://rynek-oze.pl). Przy składaniu wniosku o dofinansowanie koniecznie zapoznaj się też z **[raportem EcoAudyt o aferze Czyste Powietrze 2026](https://ecoaudyt.app/blog/czyste-powietrze-oszustwo-cba-2026)** — skala oszustw sięga 600 mln zł.
