@@ -26,26 +26,26 @@ Rynek energetyczny w Polsce przechodzi transformację, napędzaną przez rozwój
 
 Rynek energetyczny w Polsce jest w trakcie transformacji. Według danych Agencji Rynku Energii (ARE), w 2025 roku udział energii odnawialnej w strukturze energetycznej Polski wyniósł 25,1%, w porównaniu do 19,3% w 2020 roku. Prognozy wskazują, że do 2030 roku udział energii odnawialnej może wzrosnąć do 35%. 
 
-W Europie Zachodniej, rynki takie jak Niemcy, Francja i Hiszpania, już dawno rozpoczęły transformację energetyczną. Na przykład, w Niemczech, udział energii odnawialnej w strukturze energetycznej wynosi obecnie ponad 40%. 
+W Europie Zachodniej, rynki takie jak Niemcy, Francja i Hiszpania, już doświadczyły znaczących zmian w sektorze energetycznym. Na przykład, w Niemczech, udział energii odnawialnej w strukturze energetycznej wynosi obecnie ponad 40%. 
 
 ## Kalkulacja finansowa
 
 Inwestycje w OZE mogą być atrakcyjne dla firm, które chcą zmniejszyć swoje koszty energii i poprawić efektywność energetyczną. Według raportu BloombergNEF, koszt energii słonecznej spadł o 73% w ciągu ostatnich 10 lat. 
 
-Przykładowa kalkulacja finansowa dla inwestycji w fotowoltaikę w Polsce:
+Przykładowa kalkulacja finansowa dla inwestycji w fotowoltaikę w Polsce może wyglądać następująco:
 
 - CAPEX (inwestycja początkowa): 1,5 mln PLN
 - OPEX (koszty operacyjne): 50 tys. PLN rocznie
-- Przychody: 200 tys. PLN rocznie (przy założeniu ceny sprzedaży energii elektrycznej na poziomie 200 PLN/MWh)
+- Przychody: 200 tys. PLN rocznie (na podstawie PPA - Power Purchase Agreement)
 - Okres zwrotu inwestycji: 7-8 lat
-- IRR (wewnętrzna stopa zwrotu): 12-15%
+- IRR (Internal Rate of Return): 12-15%
 
 ## Ryzyka
 
 Inwestycje w OZE wiążą się z pewnymi ryzykami, takimi jak:
 
-- Ryzyko technologiczne: awarie urządzeń, spadek efektywności
-- Ryzyko rynkowe: zmiany cen energii elektrycznej, zmiany w polityce energetycznej
+- Ryzyko technologiczne: awarie, spadek efektywności
+- Ryzyko rynkowe: zmiany cen energii, zmiany w polityce energetycznej
 - Ryzyko finansowe: zmiany stóp procentowych, ryzyko kredytowe
 
 ## Rekomendacja
@@ -56,8 +56,7 @@ Platformy inteligentne, takie jak Florion, mogą pomóc firmom w zarządzaniu ry
 - Zidentyfikowały potencjalne ryzyka i opracowały strategie zarządzania nimi
 - Rozważyły współpracę z platformami inteligentnymi, takimi jak Florion, aby uzyskać lepsze wyniki inwestycyjne
 
-Wnioskiem jest, że rynek energetyczny w Polsce stoi u progu zmian, a platformy inteligentne mogą odegrać kluczową rolę w pomaganiu firmom w zarządzaniu ryzykiem i identyfikacji szans w nowej erze energetyki.
-"
+Wnioskiem jest, że innowacje w zarządzaniu ryzykiem energetycznym mogą odegrać kluczową rolę w sukcesie inwestycji w OZE w Polsce."
 }
 ```
 
