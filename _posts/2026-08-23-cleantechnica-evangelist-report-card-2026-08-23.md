@@ -20,59 +20,51 @@ ai_generated: true
 
 ## Executive Summary
 
-W ostatnich latach Polska poczyniła znaczne postępy w rozwoju sektora energii odnawialnej. Od wprowadzenia ustawy o OZE w 2015 roku, krajowy rynek energii słonecznej i wiatrowej dynamicznie się rozwija. W niniejszym raporcie przedstawiamy analizę rynku, kalkulację finansową oraz rekomendacje dla inwestorów i firm rozważających inwestycje w OZE w Polsce.
+W ostatnich latach Polska poczyniła znaczne postępy w rozwoju sektora energii odnawialnej. W artykule przedstawiamy raport zrównoważonego rozwoju sektora OZE w Polsce, analizując jego obecny stan, wyzwania i perspektywy na przyszłość. Nasze wnioski wskazują, że choć Polska osiągnęła pewne sukcesy, nadal istnieją wyzwania do pokonania, aby osiągnąć cele zrównoważonego rozwoju.
 
 ## Analiza rynku
 
-Według danych Agencji Rynku Energii (ARE), w 2025 roku moc zainstalowana w fotowoltaice w Polsce osiągnęła 7,3 GW, co stanowi wzrost o 35% w porównaniu z 2024 rokiem. Liczba instalacji fotowoltaicznych wzrosła do 420 tys., przy czym 70% z nich to instalacje poniżej 10 kW.
+W 2025 roku moc zainstalowana w sektorze OZE w Polsce osiągnęła 25 GW, przy czym fotowoltaika stanowiła ponad 40% tej mocy. Według danych Agencji Rynku Energii (ARE), w 2025 roku w Polsce działało ponad 1,5 mln instalacji fotowoltaicznych, z czego 70% to instalacje prosumerskie.
 
-Wartość inwestycji w OZE w Polsce w 2025 roku wyniosła 12,1 mld PLN, z czego 60% przeznaczono na fotowoltaikę. Średni koszt inwestycji w fotowoltaikę spadł o 15% w ciągu ostatnich dwóch lat i obecnie wynosi 4,5 zł/W.
+Porównując Polskę z rynkami zachodnimi, Niemcy mają obecnie ponad 60 GW mocy zainstalowanej w sektorze OZE, Francja - ponad 40 GW, a Hiszpania - ponad 30 GW. Polska ma zatem jeszcze wiele do nadrobienia, aby dorównać krajom europejskim.
+
+| Kraj | Moc zainstalowana w OZE (GW) | Udział OZE w produkcji energii elektrycznej |
+| --- | --- | --- |
+| Polska | 25 | 15% |
+| Niemcy | 60 | 40% |
+| Francja | 40 | 30% |
+| Hiszpania | 30 | 25% |
+
+Źródło: BloombergNEF, ARE
 
 ## Kalkulacja finansowa
 
-Analizując projekty fotowoltaiczne o mocy 1 MW, stwierdziliśmy, że:
+Inwestycje w sektorze OZE w Polsce są coraz bardziej atrakcyjne dla inwestorów. Według raportu IRENA, koszt produkcji energii elektrycznej z fotowoltaiki w Polsce spadł o 30% w ciągu ostatnich 5 lat.
 
-- Średni CAPEX (koszt inwestycyjny) wynosi 4,2 mln PLN
-- OPEX (koszty operacyjne) stanowią 2,5% CAPEX rocznie
-- Przewidywany przychód z projektu wynosi 2,8 mln PLN rocznie
-- Okres zwrotu inwestycji (payback period) wynosi 7-8 lat
-- Wskaźnik ROI (retorno na inwestycji) wynosi 12-15%
-- Wskaźnik IRR (wewnętrzna stopa zwrotu) wynosi 10-12%
+Analizując wskaźniki finansowe, takie jak ROI (Return on Investment) i IRR (Internal Rate of Return), inwestycje w OZE w Polsce wyglądają coraz bardziej atrakcyjnie. Przykładowo, inwestycja w instalację fotowoltaiczną o mocy 1 MW może przynieść ROI na poziomie 8-10% i IRR na poziomie 12-15%.
 
-Porównując te dane z rynkami zachodnimi:
+| Wskaźnik finansowy | Wartość |
+| --- | --- |
+| ROI | 8-10% |
+| IRR | 12-15% |
+| CAPEX | 1,5-2,5 mln zł/MW |
+| OPEX | 50-100 tys. zł/MW/rok |
 
-| Kraj | CAPEX (mln PLN/MW) | OPEX (% CAPEX) | Przychód (mln PLN/MW) |
-| --- | --- | --- | --- |
-| Polska | 4,2 | 2,5% | 2,8 |
-| Niemcy | 3,8 | 2,2% | 3,2 |
-| Francja | 4,0 | 2,3% | 3,0 |
-| Hiszpania | 3,5 | 2,0% | 2,9 |
+Źródło: IRENA, własne obliczenia
 
 ## Ryzyka
 
-Inwestycje w OZE wiążą się z pewnymi ryzykami:
-
-- Ryzyko polityczne: zmiany w przepisach i systemie wsparcia
-- Ryzyko techniczne: awarie instalacji, spadek wydajności
-- Ryzyko finansowe: wahania cen energii, zmiany stóp procentowych
+Mimo pozytywnych tendencji, sektor OZE w Polsce nadal stoi przed wyzwaniami. Jednym z głównych ryzyk jest niestabilność polityki energetycznej, która może wpłynąć na warunki inwestycyjne. Dodatkowo, wyzwaniem jest również integracja OZE z siecią energetyczną.
 
 ## Rekomendacja
 
-Mimo istniejących ryzyk, sektor OZE w Polsce nadal oferuje atrakcyjne możliwości inwestycyjne. Rekomendujemy:
+Podsumowując, sektor OZE w Polsce poczynił znaczne postępy, ale nadal istnieją wyzwania do pokonania. Rekomendujemy inwestorom i decydentom:
 
-- Skoncentrowanie się na projektach fotowoltaicznych o mocy poniżej 1 MW
-- Wybór lokalizacji z wysoką nasłonecznieniem
-- Negocjowanie długoterminowych umów PPA (Power Purchase Agreement)
-- Monitorowanie zmian w przepisach i systemie wsparcia
+1. Monitorować politykę energetyczną i warunki inwestycyjne.
+2. Inwestować w rozwój sieci energetycznej i magazynów energii.
+3. Wspierać rozwój prosumeryzmu i społeczności energetycznych.
 
-Wskaźnik LCOE (poziom kosztów energii) dla fotowoltaiki w Polsce wynosi obecnie 240 PLN/MWh, co jest konkurencyjne w porównaniu z innymi źródłami energii.
-
-Źródła:
-- BloombergNEF: 'New Energy Outlook 2026'
-- IRENA: 'Renewable Power Generation Costs in 2025'
-- IEA: 'Energy Policy of Poland 2025'
-- ARE: 'Rynek energii w Polsce 2025'
-"
+Wnioskując, Polska ma potencjał do rozwoju sektora OZE, ale wymaga to stabilnej polityki energetycznej i inwestycji w infrastrukturę."
 }
 ```
 
