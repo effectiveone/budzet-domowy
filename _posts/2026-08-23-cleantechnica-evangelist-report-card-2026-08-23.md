@@ -20,41 +20,45 @@ ai_generated: true
 
 ## Executive Summary
 
-W ostatnich latach Polska poczyniła znaczne postępy w rozwoju sektora energii odnawialnej. W artykule przedstawiamy raport zrównoważonego rozwoju sektora OZE w Polsce, analizując jego obecny stan, wyzwania i perspektywy na przyszłość.
+W ostatnich latach Polska poczyniła znaczne postępy w rozwoju sektora energii odnawialnej. W artykule przedstawiamy raport zrównoważonego rozwoju sektora OZE w Polsce, analizując postęp w realizacji celów zrównoważonego rozwoju, oceniając wyzwania i ryzyka oraz formułując rekomendacje dla przyszłych inwestycji.
 
 ## Analiza rynku
 
-Według danych Agencji Rynku Energii (ARE), w 2025 roku Polska osiągnęła moc zainstalowaną w OZE na poziomie 25 GW, przy czym fotowoltaika stanowiła około 40% tej mocy. W porównaniu z innymi krajami europejskimi, takimi jak Niemcy (125 GW) czy Francja (50 GW), Polska nadal pozostaje w tyle, ale tempo wzrostu jest obiecujące.
+Według danych Agencji Rynku Energii (ARE), w 2025 roku Polska osiągnęła 25% udział energii odnawialnej w ogólnym zużyciu energii elektrycznej. Dla porównania, w 2020 roku udział ten wynosił 16%. Największy wzrost odnotowano w segmencie fotowoltaiki, którego moc zainstalowana wzrosła z 1,3 GW w 2020 roku do 5,5 GW w 2025 roku.
 
-| Kraj | Moc zainstalowana w OZE (GW) | Udział w strukturze energetycznej |
+| Rok | Udział energii odnawialnej | Moc zainstalowana PV |
 | --- | --- | --- |
-| Polska | 25 | 15% |
-| Niemcy | 125 | 40% |
-| Francja | 50 | 25% |
-| Hiszpania | 60 | 30% |
+| 2020 | 16% | 1,3 GW |
+| 2025 | 25% | 5,5 GW |
 
-Źródło: BloombergNEF, ARE
+Źródło: ARE, 2026
 
 ## Kalkulacja finansowa
 
-Inwestycje w OZE w Polsce są coraz bardziej atrakcyjne dla inwestorów. Według raportu IRENA, koszt produkcji energii słonecznej w Polsce spadł o 30% w ciągu ostatnich 5 lat. Przyjmując założenia: CAPEX = 1,2 mln zł/MW, OPEX = 2% CAPEX, IRR = 8%, okres eksploatacji = 25 lat, można oszacować NPV inwestycji w fotowoltaikę:
+Analizując koszty inwestycyjne w sektorze OZE, zauważono znaczny spadek kosztów w ostatnich latach. Według raportu BloombergNEF, koszt inwestycyjny (CAPEX) dla projektów fotowoltaicznych w Europie spadł o 30% w latach 2020-2025.
 
-NPV = -1 200 000 + ∑ (przychody - koszty) \* (1 + 0,08)^(-t) = 1 533 091 zł
+| Rok | CAPEX (EUR/W) |
+| --- | --- |
+| 2020 | 1,20 |
+| 2025 | 0,84 |
+
+Źródło: BloombergNEF, 2026
 
 ## Ryzyka
 
-Mimo obiecujących perspektyw, sektor OZE w Polsce nadal stoi przed wyzwaniami. Jednym z głównych ryzyk jest niestabilność polityczna i zmiany w systemie wsparcia. Dodatkowo, wahania cen komponentów i problemy z dostępnością materiałów mogą opóźnić realizację projektów.
+Mimo znacznych postępów, sektor OZE w Polsce nadal stoi przed wyzwaniami. Jednym z głównych ryzyk jest brak stabilności polityki energetycznej, co może wpłynąć na przyszłe inwestycje. Dodatkowo, wahania cen energii elektrycznej na rynku mogą wpłynąć na rentowność projektów OZE.
 
 ## Rekomendacja
 
 W celu dalszego rozwoju sektora OZE w Polsce, rekomendujemy:
 
-1. Stabilność polityczną i długoterminowe wsparcie dla inwestycji w OZE.
-2. Zwiększenie udziału OZE w strukturze energetycznej do 30% do 2030 roku.
-3. Inwestycje w magazyny energii i rozwój inteligentnych sieci.
+1. Stabilność polityki energetycznej, aby zapewnić przewidywalność dla inwestorów.
+2. Wdrożenie mechanizmów wsparcia dla projektów OZE, takich jak aukcje na wsparcie dla projektów fotowoltaicznych.
+3. Inwestycje w rozwój sieci elektroenergetycznej, aby zapewnić integrację źródeł odnawialnych.
 
-Źródła: BloombergNEF, IRENA, IEA, ARE
-"
+Wnioski:
+
+Polska poczyniła znaczne postępy w rozwoju sektora OZE, jednak nadal istnieją wyzwania do rozwiązania. Stabilność polityki energetycznej, mechanizmy wsparcia i inwestycje w rozwój sieci są kluczowe dla dalszego rozwoju sektora OZE w Polsce."
 }
 ```
 
