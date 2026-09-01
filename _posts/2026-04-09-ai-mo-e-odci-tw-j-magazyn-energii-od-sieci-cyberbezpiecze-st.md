@@ -1,0 +1,10 @@
+---
+layout: single
+title: "AI może odciąć Twój magazyn energii od sieci. Cyberbezpieczeństwo smart grid w Polsce 2026"
+date: 2026-04-09
+categories: [OZE, Energia]
+tags: [fotowoltaika, OZE, energia, oszczędności]
+description: "Marokańskie badania 2025/2026 pokazały, że ataki AI na inteligentne sieci energetyczne mogą sfałszować odczyty liczników i unieruchomić magazyny energii. W Pols"
+---
+
+**Wstrząsający fakt:** Marokańskie badania przeprowadzone w 2
